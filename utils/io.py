@@ -1,3 +1,4 @@
+#Karina Kato
 from skimage.io import imread, imsave
 
 def read_image(path, is_gray = False):
